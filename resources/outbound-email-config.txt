@@ -1,0 +1,6 @@
+
+## Outbound email config
+mail.host=localhost
+mail.port=25
+mail.from.default=localalfresco@mycompany.com
+notification.email.siteinvite=true
